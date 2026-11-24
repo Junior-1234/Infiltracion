@@ -1,0 +1,6 @@
+{
+  "name": "Infiltrómetro",
+  "description": "Calculadora y registro de campo offline para ensayos de infiltración de agua en suelos mediante cilindros infiltrómetros (Kostiakov, Ley de Darcy, gráficos y exportación).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

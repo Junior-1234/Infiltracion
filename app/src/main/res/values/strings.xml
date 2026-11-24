@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Infiltrómetro</string>
+    <string name="nav_tests">Ensayos</string>
+    <string name="nav_formulas">Fórmulas</string>
+    <string name="tab_field_table">Campo y Tabla</string>
+    <string name="tab_models_charts">Modelos y Gráficos</string>
+    <string name="tab_formulas">Fórmulas</string>
+    <string name="share_report_chooser">Compartir informe del ensayo</string>
+</resources>
